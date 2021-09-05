@@ -15,3 +15,4 @@ qs_and_As = (
 dict_items = qs_and_As[0].items()
 
 print(dict_items)
+print(len(qs_and_As))
